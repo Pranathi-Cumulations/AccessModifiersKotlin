@@ -1,4 +1,4 @@
-package com.example.kotlinaccessmodifiers
+package com.example.mylibrary
 
 //private, internal, and public are the types of access modifiers used for top-level declarations in Kotlin
 
